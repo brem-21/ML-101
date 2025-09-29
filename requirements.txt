@@ -5,3 +5,5 @@ pandas
 pylint
 scikit-learn
 seaborn
+jupyter
+ipykernel
